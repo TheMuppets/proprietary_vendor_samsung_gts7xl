@@ -195,6 +195,8 @@ PRODUCT_PACKAGES += \
     libsynergy_loc_api \
     libthirdparty_zoomtranslator_imp \
     libvdis_interface \
+    sensors.grip \
+    sensors.ssc \
     vendor.qti.gnss@1.0 \
     vendor.qti.gnss@1.1 \
     vendor.qti.gnss@1.2 \
