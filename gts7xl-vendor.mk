@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts7xl/proprietary/vendor/etc/audconf/SLK/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/SLK/Headset_cal.acdb \
     vendor/samsung/gts7xl/proprietary/vendor/etc/audconf/SLK/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/SLK/Speaker_cal.acdb \
     vendor/samsung/gts7xl/proprietary/vendor/etc/audconf/SLK/workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/SLK/workspaceFile.qwsp \
+    vendor/samsung/gts7xl/proprietary/vendor/etc/btcon.json:$(TARGET_COPY_OUT_VENDOR)/etc/btcon.json \
     vendor/samsung/gts7xl/proprietary/vendor/etc/flp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/flp.conf \
     vendor/samsung/gts7xl/proprietary/vendor/etc/gnss_antenna_info.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gnss_antenna_info.conf \
     vendor/samsung/gts7xl/proprietary/vendor/etc/gps.conf:$(TARGET_COPY_OUT_VENDOR)/etc/gps.conf \
