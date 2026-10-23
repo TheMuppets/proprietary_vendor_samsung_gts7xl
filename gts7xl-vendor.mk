@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gts7xl/proprietary/vendor/etc/init/android.hardware.gnss@2.1-service-qti.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.gnss@2.1-service-qti.rc \
     vendor/samsung/gts7xl/proprietary/vendor/etc/izat.conf:$(TARGET_COPY_OUT_VENDOR)/etc/izat.conf \
     vendor/samsung/gts7xl/proprietary/vendor/etc/lowi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/lowi.conf \
+    vendor/samsung/gts7xl/proprietary/vendor/etc/mercury.json:$(TARGET_COPY_OUT_VENDOR)/etc/mercury.json \
     vendor/samsung/gts7xl/proprietary/vendor/etc/qdcm_calib_data_ss_dsi_panel_S6TUUM2_AMSA24VU01_WQXGA.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ss_dsi_panel_S6TUUM2_AMSA24VU01_WQXGA.xml \
     vendor/samsung/gts7xl/proprietary/vendor/etc/qdcm_calib_data_ss_dsi_panel_S6TUUM3_AMSA24VU01_WQXGA.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_ss_dsi_panel_S6TUUM3_AMSA24VU01_WQXGA.xml \
     vendor/samsung/gts7xl/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \

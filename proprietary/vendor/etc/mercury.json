@@ -1,0 +1,242 @@
+{
+  "BLRF": [
+    {
+      "name": "AP",
+      "coef": 0.2636,
+      "scale": 81.965,
+      "mean": 371.3531
+    },
+    {
+      "name": "BAT",
+      "coef": 0.0577,
+      "scale": 11.9291,
+      "mean": 294.8711
+    },
+    {
+      "name": "CHG",
+      "coef": -0.0167,
+      "scale": 33.8291,
+      "mean": 390.5325
+    },
+    {
+      "name": "CP",
+      "coef": 0.7006,
+      "scale": 42.2179,
+      "mean": 322.3601
+    },
+    {
+      "name": "Y",
+      "scale": 3.2982,
+      "mean": 33.8548,
+      "intercept": -0.0
+    }
+  ],
+  "BLRB": [
+    {
+      "name": "AP",
+      "coef": 0.3166,
+      "scale": 96.3344,
+      "mean": 325.4762
+    },
+    {
+      "name": "BAT",
+      "coef": 0.2152,
+      "scale": 21.6977,
+      "mean": 285.3044
+    },
+    {
+      "name": "CHG",
+      "coef": 0.1484,
+      "scale": 47.3346,
+      "mean": 346.4646
+    },
+    {
+      "name": "CP",
+      "coef": 0.4307,
+      "scale": 49.8859,
+      "mean": 287.1122
+    },
+    {
+      "name": "Y",
+      "scale": 3.3332,
+      "mean": 31.672,
+      "intercept": 0.0
+    }
+  ],
+  "LRF": [
+    {
+      "name": "AP",
+      "coef": 0.11,
+      "scale": 81.965,
+      "mean": 371.3531
+    },
+    {
+      "name": "BAT",
+      "coef": -0.0468,
+      "scale": 11.9291,
+      "mean": 294.8711
+    },
+    {
+      "name": "CHG",
+      "coef": -0.0692,
+      "scale": 33.8291,
+      "mean": 390.5325
+    },
+    {
+      "name": "CP",
+      "coef": 0.4472,
+      "scale": 42.2179,
+      "mean": 322.3601
+    },
+    {
+      "name": "ANT2THM",
+      "coef": 0.3467,
+      "scale": 50.0913,
+      "mean": 358.0796
+    },
+    {
+      "name": "ANT0THM",
+      "coef": 0.189,
+      "scale": 18.0379,
+      "mean": 331.8888
+    },
+    {
+      "name": "Y",
+      "scale": 3.2982,
+      "mean": 33.8548,
+      "intercept": -0.0
+    }
+  ],
+  "LRB": [
+    {
+      "name": "AP",
+      "coef": 0.2408,
+      "scale": 96.3344,
+      "mean": 325.4762
+    },
+    {
+      "name": "BAT",
+      "coef": 0.1723,
+      "scale": 21.6977,
+      "mean": 285.3044
+    },
+    {
+      "name": "CHG",
+      "coef": 0.0791,
+      "scale": 47.3346,
+      "mean": 346.4646
+    },
+    {
+      "name": "CP",
+      "coef": 0.2665,
+      "scale": 49.8859,
+      "mean": 287.1122
+    },
+    {
+      "name": "ANT2THM",
+      "coef": 0.2196,
+      "scale": 61.2208,
+      "mean": 324.9724
+    },
+    {
+      "name": "ANT0THM",
+      "coef": 0.1246,
+      "scale": 33.4144,
+      "mean": 306.7182
+    },
+    {
+      "name": "Y",
+      "scale": 3.3332,
+      "mean": 30.672,
+      "intercept": 0.0
+    }
+  ],
+  "APT": [
+    {
+      "name": "AP",
+      "coef": 0.1559,
+      "scale": 47.7204,
+      "mean": 425.2836
+    },
+    {
+      "name": "BAT",
+      "coef": 0.257,
+      "scale": 16.5611,
+      "mean": 294.0871
+    },
+    {
+      "name": "CHG",
+      "coef": 0.099,
+      "scale": 25.4461,
+      "mean": 369.9321
+    },
+    {
+      "name": "CP",
+      "coef": 0.2626,
+      "scale": 28.5024,
+      "mean": 440.579
+    },
+    {
+      "name": "ANT2THM",
+      "coef": 0.3758,
+      "scale": 35.5021,
+      "mean": 412.9542
+    },
+    {
+      "name": "ANT0THM",
+      "coef": -0.0009,
+      "scale": 30.8752,
+      "mean": 363.6928
+    },
+    {
+      "name": "Y",
+      "scale": 2.2228,
+      "mean": 36.195,
+      "intercept": 0.0
+    }
+  ],
+  "APR": [
+    {
+      "name": "AP",
+      "coef": 0.1282,
+      "scale": 41.0496,
+      "mean": 414.6598
+    },
+    {
+      "name": "BAT",
+      "coef": 0.3691,
+      "scale": 16.0445,
+      "mean": 290.6598
+    },
+    {
+      "name": "CHG",
+      "coef": 0.0261,
+      "scale": 24.7652,
+      "mean": 364.7084
+    },
+    {
+      "name": "CP",
+      "coef": 0.3903,
+      "scale": 25.5025,
+      "mean": 438.4389
+    },
+    {
+      "name": "ANT2THM",
+      "coef": 0.3158,
+      "scale": 30.9774,
+      "mean": 404.2268
+    },
+    {
+      "name": "ANT0THM",
+      "coef": -0.0677,
+      "scale": 29.9655,
+      "mean": 365.3461
+    },
+    {
+      "name": "Y",
+      "scale": 2.0239,
+      "mean": 36.0146,
+      "intercept": 0.0
+    }
+  ]
+}
